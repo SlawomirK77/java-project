@@ -8,7 +8,7 @@ public class App extends init {
     }
     public static class klasapoli2 implements klasapoli1 {
         public void doSomething(){
-            System.out.println("polimorfizm");
+            System.out.println("polimorfizm, dziala chyba");
         }
     }
 
